@@ -1,0 +1,8 @@
+CMakeBuild
+Output
+.vs
+
+# CS Project
+Source/*/bin
+Source/*/obj
+
