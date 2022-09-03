@@ -10,4 +10,8 @@
     <BaseIntermediateOutputPath />
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="ClangSharp" Version="14.0.0-rc1" />
+  </ItemGroup>
+
 </Project>
